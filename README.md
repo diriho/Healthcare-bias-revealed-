@@ -1,2 +1,5 @@
-# Healthcare-bias-revealed-
-Analyzes U.S. health insurance disparities across races from 2019–2023. Visualizes trends using static plots and animations, comparing raw counts vs percentages. Highlights how population size can hide inequalities. Includes full Python code for data processing.
+# Healthcare-bias-revealed
+
+Health Insurance Inequality Visualization is a data science project analyzing health coverage disparities across racial and ethnic groups in the United States from 2019 to 2023. Using public datasets, the project creates both static visualizations and dynamic animations to reveal evolving trends in insurance access over time. It highlights key differences between using absolute numbers and percentages, offering insights into how population size can mask inequalities. The repository includes Python scripts for data preprocessing, visualization, and animation generation.
+
+
